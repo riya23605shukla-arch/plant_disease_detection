@@ -47,6 +47,3 @@ The system takes an image of a plant and predicts whether it is healthy or disea
 
 
 
-##  Author
-
-Your Name
